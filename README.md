@@ -1,4 +1,10 @@
 # CENG3556 - ASSIGNMENT 1 - TEMPNET
+
+
+## Personal Information
+__Name__: Halim Abdurrahman Ceylan  \
+__StudentId__ : 190709043 
+
 ## Aim Of Project
 The aim of this project is to create a server that can serve multiple clients acting as temperature sensors.
 ## Expectations 
